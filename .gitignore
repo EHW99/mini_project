@@ -36,3 +36,9 @@ venv/
 server/.env
 server/__pycache__/
 server/logs/
+
+# Claude
+.claude/
+
+# Python cache (medication-rag)
+medication-rag/__pycache__/
